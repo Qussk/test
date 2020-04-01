@@ -185,11 +185,10 @@ GitHub supports emoji!
 ### 배지(badge) 만들기
 
 [shields.io](https://shields.io/)
+로 접속
 
+license 로 이동 / 본인이 직접 만들어도 됨 
 
-작성 예시 
-<"https://img.shields.io/badge/license-mit-green.svg"> 
-https://img.shields.io/badge/--.svg 
 
 APM: /apm/l/:packageName.svg 
 AUR license: /aur/license/:packageName.svg
