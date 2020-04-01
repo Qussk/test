@@ -4,6 +4,9 @@
 #### 헤딩4
 
 
+
+
+
 #### 항목으로만 입력. 
 
 * Item 1 
@@ -14,6 +17,10 @@
  
  
  ("*"로 구분하면 됨. *안에 *를 추가하면 하위 항목으로 새로 추가됨)    
+
+
+
+
 
 
 #### 순차적으로 정렬 
@@ -31,16 +38,26 @@
 
 
 
+
+
+
 ### 문장입력
 
 문장 입력시 공백을주지 않으면, 앞문장과 뒷문장이 서로 붙음. 이에 스페이스바를 두 번 이상 누를 경우  위 문장과 분리되어 다음줄에 입력됨 
 
 
+
+
+
+
 ### 이미지 등록(Image)
+
+
 #### 첫번째 
 
 ![이미지1](/image/이미지색.jpeg)
   format : ![이미지 이름]+(url링크)
+
 
 #### 두번째 
 ![마크다운로고](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/330px-Markdown-mark.svg.png)  
@@ -48,8 +65,14 @@
   
 
 
+
+
+
 ### 하이퍼링크(Links)
 [GitHub](http://github.com "깃허브")
+
+
+
 
 
 
@@ -61,6 +84,8 @@ function test() {
 ```
 
 
+
+
 ### 인용 상자(Blockquotes)
 
 As Grace Hopper said: 
@@ -69,7 +94,11 @@ As Grace Hopper said:
 > in the future than in the past.
 
 
+
+
+
 ### 강조 (Emphasis)
+
 
 #### 이탤릭체
 
@@ -77,10 +106,12 @@ As Grace Hopper said:
 _This will also be italic_ 
 
 
+
 #### 굵게
 
 **This text will be bold** 
 __This will also be bold__ 
+
 
 
 #### 부분 강조
