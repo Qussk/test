@@ -52,6 +52,7 @@
 [GitHub](http://github.com "깃허브")
 
 
+
 ### 코드 블록(Code Blocks) 
 ```javascript 
 function test() { 
@@ -59,8 +60,32 @@ function test() {
 } 
 ```
 
-'''swift
-print("안녕하세요")
-'''
+
+### 인용 상자(Blockquotes)
+
+As Grace Hopper said: 
+
+> I’ve always been more interested. 
+> in the future than in the past.
+
+
+### 강조 (Emphasis)
+
+#### 이탤릭체
+
+*This text will be italic* 
+_This will also be italic_ 
+
+
+#### 굵게
+
+**This text will be bold** 
+__This will also be bold__ 
+
+
+#### 부분 강조
+
+**This text will be bold** 
+__This will also be bold__ 
 
 
