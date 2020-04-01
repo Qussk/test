@@ -39,6 +39,6 @@
 ### 이미지 등록(Image)
 #### 첫번째 
 
-![이미지1](/image/image rogo.jpeg)
+![이미지1](/image/image_rogo.jpeg)
 format : ![이미지1](url링크)
 
