@@ -156,7 +156,9 @@ Content column 1 | Content column 2
 
 
 --- 
+
 *** 
+
 ___
 
 
@@ -181,6 +183,8 @@ GitHub supports emoji!
 
 
 ### 배지(badge) 만들기
+
+[shields.io](https://shields.io/)
 
 
 작성 예시 
