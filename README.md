@@ -43,6 +43,24 @@
   format : ![이미지 이름]+(url링크)
 
 #### 두번째 
-![마크다운로고](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/330px-Markdown-mark.svg.png)
+![마크다운로고](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/330px-Markdown-mark.svg.png)  
   format : img태그이용.
+  
+
+
+### 하이퍼링크(Links)
+[GitHub](http://github.com "깃허브")
+
+
+### 코드 블록(Code Blocks) 
+```javascript 
+function test() { 
+ console.log("hello world!"); 
+} 
+```
+
+'''swift
+print("안녕하세요")
+'''
+
 
