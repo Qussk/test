@@ -188,11 +188,11 @@ GitHub supports emoji!
 
 
 작성 예시 
-<https://img.shields.io/badge/license-mit-green.svg"> 
+<"https://img.shields.io/badge/license-mit-green.svg"> 
 https://img.shields.io/badge/--.svg 
 
 APM: /apm/l/:packageName.svg 
 AUR license: /aur/license/:packageName.svg
 
-
+<img src="https://img.shields.io/badge/license-mit-orange">
 
