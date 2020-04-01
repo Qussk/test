@@ -5,7 +5,7 @@
 
 
 
-
+## 항목(List)만들기
 
 #### 항목으로만 입력. 
 
@@ -13,9 +13,9 @@
 * Item 2 
     * Item 2a 
     * Item 2b 
+       
     
- 
- 
+    
  >("*"로 구분하면 됨. *안에 *를 추가하면 하위 항목으로 새로 추가됨)    
 
 
@@ -41,16 +41,18 @@
 
 
 
-### 문장입력
+## 문장입력
 
 문장 입력시 공백을주지 않으면, 앞문장과 뒷문장이 서로 붙음. 이에 스페이스바를 두 번 이상 누를 경우  위 문장과 분리되어 다음줄에 입력됨 
 
 
 
+## 취소선 
+
+~~취소선~~
 
 
-
-### 이미지 등록(Image)
+## 이미지 등록(Image)
 
 
 #### 첫번째 
@@ -68,7 +70,7 @@
 
 
 
-### 하이퍼링크(Links)
+## 하이퍼링크(Links)
 [GitHub](http://github.com "깃허브")
 
 
@@ -76,7 +78,7 @@
 
 
 
-### 코드 블록(Code Blocks) 
+## 코드 블록(Code Blocks) 
 ```javascript 
 function test() { 
  console.log("hello world!"); 
@@ -86,7 +88,7 @@ function test() {
 
 
 
-### 인용 상자(Blockquotes)
+## 인용 상자(Blockquotes)
 
 As Grace Hopper said: 
 
@@ -97,24 +99,24 @@ As Grace Hopper said:
 
 
 
-### 강조 (Emphasis)
+## 강조 (Emphasis)
 
 
-#### 이탤릭체
+### 이탤릭체
 
 *This text will be italic* 
 _This will also be italic_ 
 
 
 
-#### 굵게
+### 굵게
 
 **This text will be bold** 
 __This will also be bold__ 
 
 
 
-#### 부분 강조
+### 부분 강조
 
 *You **can** combine them*
 
@@ -122,7 +124,7 @@ __This will also be bold__
 
 
 
-### 테이블 TABLES
+## 테이블 TABLES
 
 
 First Header | Second Header 
@@ -133,7 +135,7 @@ Content column 1 | Content column 2
 
 
 
-### 체크 박스(Task Lists)
+## 체크 박스(Task Lists)
 
 - [x] this is a complete item 
 - [ ] this is an incomplete item 
@@ -143,7 +145,7 @@ Content column 1 | Content column 2
 
 
 
-### 인라인 코드(Inline code)
+## 인라인 코드(Inline code)
 
 문단 중간에 `Code`를 넣을 수 있습니다. 
 예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
@@ -152,7 +154,7 @@ Content column 1 | Content column 2
 
 
 
-### 수평선(hr)
+## 수평선(hr)
 
 
 --- 
@@ -163,7 +165,7 @@ ___
 
 
 
-### 탈출 문자 (Backslash Escapes)
+## 탈출 문자 (Backslash Escapes)
 
 
 ＼*literal asterisks＼* 
@@ -173,7 +175,7 @@ _＼_Tom＼__
 
 
 
-### 이모지(EMOJI) - 아이콘
+## 이모지(EMOJI) - 아이콘
 
 [emoji로 이동>>>](http://emoji-cheat-sheet.com)
 
@@ -183,7 +185,7 @@ GitHub supports emoji!
 
 
 
-### 배지(badge) 만들기
+## 배지(badge) 만들기
 
 [shields.io](https://shields.io/)
 로 접속
