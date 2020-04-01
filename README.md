@@ -44,7 +44,7 @@
 ## 문장입력
 
 문장 입력시 공백을주지 않으면, 앞문장과 뒷문장이 서로 붙음. 이에 스페이스바를 두 번 이상 누를 경우  
-위 문장과 분리되어 다음줄에 입력됨 <br>´<br>´도 동일하게 이용가능
+위 문장과 분리되어 다음줄에 입력됨 <br> `<br>` 도 동일하게 이용가능
 
 
 
@@ -108,6 +108,10 @@ As Grace Hopper said:
 *This text will be italic* 
 _This will also be italic_ 
 
+```
+*This text will be italic* 
+_This will also be italic_ 
+```
 
 
 ### 굵게
@@ -115,12 +119,19 @@ _This will also be italic_
 **This text will be bold** 
 __This will also be bold__ 
 
+```
+**This text will be bold** 
+__This will also be bold__ 
+```
 
 
 ### 부분 강조
 
 *You **can** combine them*
 
+```
+*You **can** combine them*
+```
 
 
 
