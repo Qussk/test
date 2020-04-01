@@ -39,6 +39,6 @@
 ### 이미지 등록(Image)
 #### 첫번째 
 
-![이미지1](/image/이미지 2020.4.1.오후12.20.jpeg)
+![이미지1](/image/image rogo.jpeg)
 format : ![이미지1](url링크)
 
