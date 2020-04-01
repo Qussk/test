@@ -116,7 +116,79 @@ __This will also be bold__
 
 #### 부분 강조
 
-**This text will be bold** 
-__This will also be bold__ 
+*You **can** combine them*
+
+
+
+
+
+### 테이블 TABLES
+
+
+First Header | Second Header 
+------------ | ------------- 
+Content cell 1 | Content cell 2 
+Content column 1 | Content column 2
+
+
+
+
+### 체크 박스(Task Lists)
+
+- [x] this is a complete item 
+- [ ] this is an incomplete item 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported 
+- [x] list syntax required (any unordered or ordered list supported)
+
+
+
+
+### 인라인 코드(Inline code)
+
+문단 중간에 `Code`를 넣을 수 있습니다. 
+예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
+
+
+
+
+
+### 수평선(hr)
+
+
+--- 
+*** 
+___
+
+
+
+### 탈출 문자 (Backslash Escapes)
+
+
+＼*literal asterisks＼* 
+*literal asterisks* 
+__＼*＼*Text＼*＼*__ 
+_＼_Tom＼__
+
+
+
+### 이모지(EMOJI) - 아이콘
+
+
+GitHub supports emoji! 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
+
+
+
+### 배지(badge) 만들기
+
+
+작성 예시 
+<https://img.shields.io/badge/license-mit-green.svg"> 
+https://img.shields.io/badge/--.svg 
+
+APM: /apm/l/:packageName.svg 
+AUR license: /aur/license/:packageName.svg
+
 
 
