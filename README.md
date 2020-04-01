@@ -175,6 +175,7 @@ _＼_Tom＼__
 
 ### 이모지(EMOJI) - 아이콘
 
+[emoji로 이동>>>](http://emoji-cheat-sheet.com)
 
 GitHub supports emoji! 
 :+1: :sparkles: :camel: :tada: 
@@ -187,10 +188,11 @@ GitHub supports emoji!
 [shields.io](https://shields.io/)
 로 접속
 
+
 license 로 이동 / 본인이 직접 만들어도 됨 
 
 
-APM: /apm/l/:packageName.svg 
+APM: /apm/l/:packageName.svg   
 AUR license: /aur/license/:packageName.svg
 
 <img src="https://img.shields.io/badge/license-mit-orange">
