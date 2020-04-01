@@ -40,9 +40,9 @@
 #### 첫번째 
 
 ![이미지1](/image/이미지색.jpeg)
-format : ![이미지 alt명](url링크)
+  format : ![이미지 이름]+(url링크)
 
 #### 두번째 
 ![마크다운로고](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/330px-Markdown-mark.svg.png)
-format : img태그이용.
+  format : img태그이용.
 
